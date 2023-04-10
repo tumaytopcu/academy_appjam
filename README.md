@@ -1,6 +1,15 @@
-# appjamakademi
+# Game&App Jam / Google Oyun ve Uygulama Akademisi / F-20 / NoteSlack
 
-A new Flutter module project.
+App Jam kapsamında geliştirdiğimiz uygulamamız NoteSlack projesi. 
+
+Bu uygulama sayesinde akademi görevlerine hızlıca erişebilecek, tüm dersler ile ilgili notlarınızı bu programda tutabilecek ve kendi belirlediğiniz görevlerinizi işaretleyebileceksiniz. 
+
+
+
+
+
+
+
 
 ## Getting Started
 
